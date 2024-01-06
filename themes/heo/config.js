@@ -5,9 +5,9 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎光临', url: 'byear.cn' },
-    { title: '白夜的博客', url: 'byear.cn' },
-    { title: '点击前往主页', url: 'byear.cn' },
+    { title: '欢迎光临', url: '' },
+    { title: '白夜的博客', url: '' },
+   // { title: '点击前往主页', url: 'byear.cn' },
   //  { title: '友站直通车', url: '/links' }
   ],
 
