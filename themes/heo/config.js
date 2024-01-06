@@ -20,9 +20,9 @@ const CONFIG = {
 
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '看风景吗', url: '/tag/图' },
-  HEO_HERO_CATEGORY_2: { title: '听故事吗', url: '/tag/文' },
-  HEO_HERO_CATEGORY_3: { title: '教程啥的', url: '/tag/技' },
+  HEO_HERO_CATEGORY_1: { title: '看风景吗', url: '/tag/摄影' },
+  HEO_HERO_CATEGORY_2: { title: '听故事吗', url: '/tag/图文' },
+  HEO_HERO_CATEGORY_3: { title: '教程啥的', url: '/tag/教程' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
@@ -43,10 +43,10 @@ const CONFIG = {
   HEO_GROUP_ICONS: [
     {
       title_1: 'AfterEffect',
-      img_1: '/images/heo/20239df3f66615b532ce571eac6d14ff21cf072602.webp',
+      img_1: '//api.isoyu.com/ARU_GIF_S.php',
       color_1: '#989bf8',
       title_2: 'Sketch',
-      img_2: '/images/heo/2023e0ded7b724a39f12d59c3dc8fbdc7cbe074202.webp',
+      img_2: '//api.isoyu.com/ARU_GIF_S.php',
       color_2: '#ffffff'
     },
     {
