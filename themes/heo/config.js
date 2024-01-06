@@ -43,7 +43,7 @@ const CONFIG = {
   HEO_GROUP_ICONS: [
     {
       title_1: 'C++',
-      img_1: '//img.icons8.com/fluency/96/c-plus-plus-logo.png" alt="c-plus-plus-logo',
+      img_1: '//img.icons8.com/fluency/96/c-plus-plus-logo.png',
       color_1: '#989bf8',
       title_2: 'chatgpt',
       img_2: '//img.icons8.com/ios-glyphs/90/chatgpt.png',
@@ -86,7 +86,7 @@ const CONFIG = {
       img_1: '//img.icons8.com/fluency/96/autocad--v1.png',
       color_1: '#f7cb4f',
       title_2: 'PR',
-      img_2: '//img.icons8.com/color/96/adobe-premiere-pro--v1.png" alt="adobe-premiere-pro--v1',
+      img_2: '//img.icons8.com/color/96/adobe-premiere-pro--v1.png',
       color_2: '#e9572b'
     },
     {
@@ -94,7 +94,7 @@ const CONFIG = {
       img_1: '//img.icons8.com/3d-fluency/94/adobe-lightroom.png',
       color_1: '#df5b40',
       title_2: 'Midjourney',
-      img_2: '//upload.wikimedia.org/wikipedia/commons/2/24/Midjourney_Emblem.svg',
+      img_2: '//bkimg.cdn.bcebos.com/pic/d62a6059252dd42a28344fccbd6d4cb5c9ea15ce1207?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70',
       color_2: '#1f1f1f'
     }
   ],
