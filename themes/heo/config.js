@@ -16,7 +16,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '❀❀',
   HEO_HERO_TITLE_LINK: 'www.byear.cn/',
   HERO_TITLE_4: '博客上线',
-  HERO_TITLE_5: '基于NotionNext  部署于阿里ECS',
+  HERO_TITLE_5: '基于NotionNext  部署于vercel',
 
 
   // 英雄区显示三个置顶分类
