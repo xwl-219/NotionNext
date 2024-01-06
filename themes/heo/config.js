@@ -94,7 +94,7 @@ const CONFIG = {
       img_1: '//img.icons8.com/3d-fluency/94/adobe-lightroom.png',
       color_1: '#df5b40',
       title_2: 'Midjourney',
-      img_2: '//bkimg.cdn.bcebos.com/pic/d62a6059252dd42a28344fccbd6d4cb5c9ea15ce1207?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70',
+      img_2: '//bkimg.cdn.bcebos.com/pic/d62a6059252dd42a28344fccbd6d4cb5c9ea15ce1207',
       color_2: '#1f1f1f'
     }
   ],
